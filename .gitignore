@@ -159,3 +159,4 @@ package/
 data/
 storage/
 log/
+.history/
