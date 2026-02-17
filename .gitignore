@@ -135,6 +135,9 @@ fabric.properties
 *.iml
 .idea/
 
+### env (secrets)
+.env
+
 ### node_modules/
 node_modules/
 
